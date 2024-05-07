@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.1"
 
-REPO_NAME = "picdiffbox"
+REPO_NAME = "example_picdiff"
 AUTHOR_USER_NAME = "TUSHAR-PERSPECTIVE"
-SRC_REPO = "picdiffbox"
+SRC_REPO = "example_picdiff"
 AUTHOR_EMAIL = "talkativetushar@gmail.com"
 
 setuptools.setup(
